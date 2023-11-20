@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "감귤",
+      "provider": "Jeju Island",
+      "price": 17100,
+      "image": "/images/image001.png"
+    },
+    {
+      "id": 2,
+      "name": "사과",
+      "provider": "Milyang Arirang",
+      "price": 3000,
+      "image": "/images/image002.jpg"
+    },
+    {
+      "id": 3,
+      "name": "바나나",
+      "provider": "Philippines",
+      "price": 7000,
+      "image": "/images/image003.png"
+    },
+    {
+      "id": 4,
+      "name": "참외",
+      "provider": "Seongju",
+      "price": 1900,
+      "image": "/images/image004.png"
+    },
+    {
+      "id": 5,
+      "name": "배",
+      "provider": "Naju",
+      "price": 99000,
+      "image": "/images/image005.png"
+    },
+    {
+      "id": 6,
+      "name": "무화과",
+      "provider": "Young Am",
+      "price": 69000,
+      "image": "/images/image006.png"
+    },
+    {
+      "id": 7,
+      "name": "매실",
+      "provider": "Gwang Yang",
+      "price": 1000000,
+      "image": "/images/image007.png"
+    },
+    {
+      "id": 8,
+      "name": "두리안",
+      "provider": "DongNamA",
+      "price": 5900,
+      "image": "/images/image008.png"
+    }
+  ]
+}
